@@ -1,4 +1,10 @@
-# CoffeeandCake
+<p >
+<h1 align="center">CoffeeandCake</h1>
+</p>
+<p align="center">
+<img src ="http://img0.joyreactor.com/pics/post/gif-cake-cup-5452087.gif" height="150"/> 
+</p>
+<br>
 HEY, there!
 Welcome to my CoffeeandCake project.Basically CoffeeandCake is a nice and simple website with just a few pages.As you see all, I have a list with some links to some 
 others pages . Then in last I have a link to contacts page. So, I create the tittle of the top,and then just paste the picture of map and also create two links in 
@@ -7,7 +13,10 @@ up automatically in your email provider then I create a link back to the main pa
 Also I create two more pages the one's going to be RedVelvet cake. A simple page.
 and same as another one that is Sweets.
 
-<h1>output:-</h2>
+<h1> #Output  </h1>
+
+
+
 
 ![c1](https://user-images.githubusercontent.com/109518128/179819674-3db30374-3cbb-4315-b84e-9391859c505c.PNG)
 
