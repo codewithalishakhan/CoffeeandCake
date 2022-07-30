@@ -13,7 +13,7 @@ up automatically in your email provider then I create a link back to the main pa
 Also I create two more pages the one's going to be RedVelvet cake. A simple page.
 and same as another one that is Sweets.
 
-<h1> #Output  </h1>
+<h1> #Sreenshots  </h1>
 
 
 
