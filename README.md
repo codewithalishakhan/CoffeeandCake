@@ -17,18 +17,23 @@ and same as another one that is Sweets.
 
 
 
-
-![c1](https://user-images.githubusercontent.com/109518128/179819674-3db30374-3cbb-4315-b84e-9391859c505c.PNG)
-
-![c2](https://user-images.githubusercontent.com/109518128/179819917-f8d56143-1b06-4f24-b744-6721ffeb8668.PNG)
+<h2>Main Page-</h2>
+<img src=https://user-images.githubusercontent.com/109518128/179819674-3db30374-3cbb-4315-b84e-9391859c505c.PNG height=100><br>
 
 
-![Capture3](https://user-images.githubusercontent.com/109518128/179820043-d4f19ad2-5e5e-44e6-b0d7-1cdaadf0b8c0.PNG)
+<img src=https://user-images.githubusercontent.com/109518128/179819917-f8d56143-1b06-4f24-b744-6721ffeb8668.PNG height=100>
 
-![c4](https://user-images.githubusercontent.com/109518128/179820075-1d7304dd-bf74-4d8d-a0cb-c393da5ede40.PNG)
+<h2>Red-velvet page-</h2>
+
+<img src=https://user-images.githubusercontent.com/109518128/179820043-d4f19ad2-5e5e-44e6-b0d7-1cdaadf0b8c0.PNG height=100>
 
 
-![c5](https://user-images.githubusercontent.com/109518128/179820519-782874a8-b071-485e-bf33-a1328a628997.PNG)
+<h2>Sweet Page-</h2>
+<img src=https://user-images.githubusercontent.com/109518128/179820075-1d7304dd-bf74-4d8d-a0cb-c393da5ede40.PNG height=100>
+
+
+<h2>Contact page-</h2>
+<img src=https://user-images.githubusercontent.com/109518128/179820519-782874a8-b071-485e-bf33-a1328a628997.PNG height=100>
 
 
 
